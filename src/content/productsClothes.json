@@ -1,0 +1,12 @@
+[
+    {"id":1 ,"name":"jacket","price":200,"image":"assests/jacket1.jpg" ,"description":"colorful jacket "},
+    {"id":2 ,"name":"jacket","price":300,"image":"assests/jacket2.jpg" ,"description":"jacket "},
+    {"id":3 ,"name":"jacket","price":250,"image":"assests/jacket3.jpg" ,"description":"jacket "},
+    {"id":4 ,"name":"jacket","price":275,"image":"assests/jacket4.jpg" ,"description":"jacket "},
+    {"id":5 ,"name":"shirt","price":50,"image":"assests/jacket5.jpg" ,"description":"shirt "}, 
+    {"id":6 ,"name":"shirt","price":700,"image":"assests/shirt1.jpg" ,"description":"shirt "},
+    {"id":7 ,"name":"shirt","price":700,"image":"assests/shirt2.jpg" ,"description":"shirt "},
+    {"id":8 ,"name":"shirt","price":700,"image":"assests/shirt3.jpg" ,"description":"shirt "}
+
+
+]

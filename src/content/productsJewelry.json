@@ -1,0 +1,6 @@
+[
+    {"id":1 ,"name":"rings","price":600,"image":"assests/rings.jpg" ,"description":"pretty diamond rings "},
+    {"id":2 ,"name":"ruby","price":500,"image":"assests/ruby.jpg" ,"description":"pretty diamond rings "},
+    {"id":3 ,"name":"gold","price":700,"image":"assests/gold.jpg" ,"description":"pretty diamond rings "},
+    {"id":4 ,"name":"jewelry","price":700,"image":"assests/jewelry.jpg" ,"description":"pretty diamond rings "}
+]
